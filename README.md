@@ -1,6 +1,6 @@
 # Praktikum10
 # Pertemuan 14
-
+## Fergiawan Satrio Bagaskoro
 ## Latihan
 ![ss1 0](https://user-images.githubusercontent.com/115530180/213067795-667086a1-a044-4474-a1f5-a0de7abed9c0.png)
 
