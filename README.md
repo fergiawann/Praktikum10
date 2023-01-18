@@ -1,5 +1,5 @@
 # Praktikum10
-# Pertemuan !4
+# Pertemuan 14
 
 ## Latihan
 ![ss1 0](https://user-images.githubusercontent.com/115530180/213067795-667086a1-a044-4474-a1f5-a0de7abed9c0.png)
@@ -36,6 +36,7 @@
 ![ss9](https://user-images.githubusercontent.com/115530180/213068191-3344eb2b-1b6d-45a0-8fdb-34373099afa9.png)
 
 **Output**
+
 ![ss10](https://user-images.githubusercontent.com/115530180/213068209-3e70d8e0-0233-44b1-ba1c-eb6940201f70.png)
 
 ### Ganti Character H Menjadi Character J
